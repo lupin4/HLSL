@@ -1,0 +1,1 @@
+return float3(sin(uv.x * 100.0), 0, 0); // Vertical Wave

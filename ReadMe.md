@@ -1,1 +1,1 @@
-Collection of HLSL code I have put into practice
+Collection of HLSL code I have put into practice.

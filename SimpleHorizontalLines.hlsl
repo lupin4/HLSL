@@ -1,0 +1,1 @@
+return float3(sin(uv.y * 100.0), 0 ,0); // Horizontal Wave
